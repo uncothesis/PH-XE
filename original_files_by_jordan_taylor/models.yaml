@@ -1,0 +1,4 @@
+models:
+  - name: meta-llama/Llama-3.3-70B-Instruct-Turbo-Free
+  - name: meta-llama/Llama-4-Maverick-17B-128E-Instruct-FP8
+  - name: deepseek-ai/DeepSeek-R1-Distill-Llama-70B-free

@@ -1,0 +1,416 @@
+id,correct_answer,question,A,B,C,D
+27,A,"The atmosphere in a tank is too lean if it is
+__________.","incapable of supporting
+combustion because
+the hydrocarbon
+content is below the
+LFL (Lower Flammable
+Limit)","capable of supporting
+combustion because
+the hydrocarbon
+content is above the
+UFL (Upper Flammable
+Limit)","capable of supporting a
+fire once started",not safe for ballasting
+35,A,Which statement is TRUE of a gasoline spill?,"It is visible for a shorter
+time than a fuel oil spill.","It is not covered by the
+pollution laws.","It does little harm to
+marine life.","It will sink more rapidly
+than crude oil."
+37,D,"What is the generally accepted method of determining whether the atmosphere within a cargo tank is explosive, too rich,  or too lean to support combustion?",Use the open flame test on a small sample that has been taken from the tank.,Send a gas sample ashore for laboratory analysis.,Enter the tank with an oxygen analyzer.,Use an explosimeter.
+39,A,A flame screen __________.,permits the passage of vapor but not of flame,prevents the passage of flammable vapors,prevents inert gas from leaving a tank,permits vapors to exit but not enter a tank
+40,C,"Regardless of local requirements/regulations, when in a U.S. port, all oil spills must  be reported to __________.",Environmental Protection Agency,Minerals Management Service,National Response Center (USCG),All of the Above
+42,B,The advantages of using an inert gas system on a tank vessel is that it provides __________.,for faster loading,tank atmosphere with low oxygen content,better fuel economy,All of the above
+48,D,What is used to test a tank for oxygen content?,Combustible gas indicator,Vapor indicator,Atmosphere analyzer kit,None of the above
+53,A,Which statement is TRUE concerning inert gas systems on tank vessels?,Flue gases from the ship's boilers are used in some systems.,Helium is the preferred inert gas.,Using the system accelerates the rusting of the tanks.,All of the above
+58,C,The minimum concentration of a vapor in air which can form  an explosive mixture is called the __________.,auto-ignition point,flash point,lower explosive limit (LEL),threshold limit value (TLV)
+62,C,"You are towing a 1000 gross ton gasoline tank barge. The barge is NOT gas free. Regulations say that the cargo tank  hatches, ullage holes, and Butterworth plates on the barge  may remain open without flame screens __________.",without restriction,only while in areas of good weather,when under the supervision of a senior crew member on duty,only when the barge is empty
+63,C,The deck water seal of the inert gas system __________.,cools the inert gas and prevents soot from entering the cargo tanks,acts as an emergency system shutdown when the inlet pressures exceed  the safe working pressure in the into nonhazardous hazardous zone,prevents the backflow of hydrocarbon gasses  areas,relieves sudden large overpressures in the system
+68,B,The explosive range of petroleum vapors mixed with air is __________.,0% to  1%,1% to 10%,10% to 15%,12% to 20%
+87,C,"On an inspection of your tankship you notice that there are no portable fire extinguishers in the pumproom.  To comply  with regulations, you __________.",need not be concerned since no portable extinguishers are required in the pumproom,should arrange to have a B-II extinguisher placed in the vicinity of the exit,should arrange to have a B-II extinguisher placed in the lower pumproom,may substitute sand for the required extinguishers
+88,B,Which type of portable lighting may be used to enter a compartment on a tank barge which is NOT gas-free?,A three-cell flashlight,"An explosion-proof, self- contained, battery-fed lamp",A spark resistant and flame retardant lamp,None of the above
+96,C,A spark arrestor __________.,keeps sparks from falling into an open tank,secures covers on ullage openings,prevents sparks from getting out of an engine's exhaust system,grounds static electricity
+100,B,Annex V to MARPOL 73/78 contains requirements pertaining to the discharge into the marine environment of __________.,oil,garbage,noxious liquid substances,None of the above
+108,B,"What best describes for how long a gas-free test is
+good?","For as long as is
+indicated on the gas-
+free certificate","For the instant that it is
+made","Until valves in line with
+the tank or
+compartment are
+reopened","Until changes in
+temperature or
+pressure affect the
+vapor content in the
+space"
+118,A,"Combustible gas indicators operate by drawing an air
+sample into the instrument __________.","over an electrically
+heated platinum
+filament","where it is mixed with
+nitrogen","where it is ignited by a
+sparking device","where its specific
+gravity is measured"
+128,D,"Before welding in a tank that has carried petroleum
+products, the tank must be certified by __________.",the Coast Guard,"the American Bureau
+of Shipping","the shipyard fire
+department","a certified marine
+chemist"
+147,D,Which statement concerning an accidental oil spill in the navigable waters of the U.S. is TRUE?,The Corps of Engineers is responsible for the clean up of the spill.,The Department of Interior is responsible for the clean up  of the spill.,A warning broadcast must be made by radiotelephone.,The person in charge must report the spill to the Coast Guard.
+156,A,"When oil is accidentally discharged into the water, what should you do after reporting the discharge?",Contain the oil and remove as much of it Throw chemical agents as possible from the on the water to water. disperse the oil.,Throw sand on the water to sink the oil.,Call the Coast Guard.,Obtain your permit from the Corps of Engineers
+186,C,"Which substance is NOT considered to be ""Oil"" under
+the pollution prevention regulations?",Petroleum and fuel oil,Sludge,"Oil mixed with dredge
+spoil","Oil refuse and oil mixed
+with wastes"
+196,B,"As soon as the officer in charge of the vessel has
+taken steps to stop the discharge of oil or oily mixture
+into a U.S. harbor, what must he do FIRST?","Rig a boom for
+recovery.",Call the Coast Guard.,"Alert the fire
+department.","Inform the
+Environmental
+Protection Agency."
+207,D,"When a vessel violates the oil pollution laws, who may
+be held responsible?",Master only,Owners only,Licensed officers only,"Any individual
+connected with the
+vessel involved in the
+operation"
+213,D,"In the navigable waters of the United States, Annex V
+to MARPOL 73/78 is NOT applicable to a(n)
+__________.",recreational yacht,"uninspected towing
+vessel","uninspected passenger
+vessel under 100 GT","U.S. government
+vessel in non-
+commercial service"
+222,B,"Which statement about the free surface effect is
+TRUE?","It increases in direct
+proportion to the length
+of the tank times the
+breadth squared.","It decreases at
+increased angles of
+heel due to pocketing
+when a tank is 90%
+full.","It decreases in direct
+proportion to increasing
+specific gravity of the
+liquid in the tank.","In practice, the
+correction is
+considered to be a
+virtual reduction of KG."
+230,D,"Fuel oil tank vents are fitted with a screen which will
+stop __________.","oil from flowing out of
+the tank vent","air from entering the
+tank vent","vapors from leaving the
+tank vent","flames on deck from
+entering the tank vent"
+261,C,"What does NOT affect the value of the free surface
+correction?",Width of the tank,Length of the tank,Registered tonnage,"Specific gravity of the
+liquid in the tank"
+266,D,"The term ""discharge"", as it applies to the pollution
+regulations, means __________.",spilling,leaking,pumping,All of the above
+276,C,"When cleaning up an oil spill in U.S. waters you must
+obtain the approval of the Federal On-Scene
+Coordinator before using __________.",skimmers,straw,chemical agents,sawdust
+286,D,"The use of sinking and dispersing chemical agents for
+removal of surface oil is __________.","the most common
+method used in the
+United States","too expensive for
+common use","generally safe to sea
+life","authorized only with
+prior approval of the
+Federal On-Scene
+Coordinator"
+302,A,Which factor has the greatest effect on the value of the free surface correction?,The width of the tank,The length of the tank,The draft of the vessel,The specific gravity of the liquid in the tank
+306,C,It is generally NOT allowed to clean up an oil spill by using __________.,a boom,suction equipment,chemical agents,skimmers
+326,A,"For the purposes of cargo oil containment, the fixed
+container under the manifold of an eight-inch loading
+line  must hold a minimum of __________.",three barrels,four barrels,six barrels,eight barrels
+336,A,"Your vessel is carrying 24,000 barrels of oil for
+discharge. The cargo hoses have an inside diameter of
+eight inches. The container around the loading
+manifold must hold __________.",three barrels,four barrels,six barrels,eight barrels
+351,C,"The most detrimental effect on initial stability is a result
+of liquids __________.","flowing from side to
+side within the vessel","flowing from fore to aft
+within a vessel","flowing in and out of a
+holed wing tank","pocketing in a slack
+tank as a vessel heels"
+391,D,"A tank which carries liquid is dangerous to the stability
+of a vessel when it is __________.",low in the vessel,completely empty,completely full,slack
+397,B,"Deck foam systems, designed to protect cargo areas on tank  vessels built after January 1, 1975, must have a supply of  foam-producing material to operate the system at its designed rate of foam production for __________.",15 minutes without recharging,20 minutes without recharging,25 minutes without recharging,30 minutes without recharging
+523,B,A spanner is a __________.,"cross connection line
+between two main fire
+lines","special wrench for the
+couplings in a fire hose
+line","tackle rigged to support
+a fire hose",None of the above
+526,C,"What would you consult to determine the number of
+persons required on duty while loading a cargo of
+leaded gasoline on your tanker?","46 CFR Part 15
+(Manning)",Certificate of Inspection,"Oil Transfer
+Procedures Manual",IOPP Certificate
+536,D,"What is NOT required to be contained in the oil transfer
+procedures?","A line diagram of the
+vessel's oil transfer
+piping","The number of persons
+on duty during oil
+transfer operations","Any special procedures
+for topping off tanks","The location and
+capacity of all fuel and
+cargo tanks on the
+vessel"
+551,B,"The normal tendency for a loaded tanker is to
+__________.",hog,sag,have a permanent list,be very tender
+556,D,"The transfer procedures for oil products are required to
+be posted __________.",in the pilothouse,in the officer's lounge,"in the upper pumproom
+flat","where they can be
+easily seen or readily
+available"
+566,C,Small oil spills on deck can be kept from going overboard by __________.,driving wooden plugs into the vents,closing the lids on the vents,plugging the scuppers,plugging the sounding pipes
+573,C,"Your tankship has 40 gallons of 6% foam concentrate
+aboard. Approximately how much foam solution can be
+produced from this supply?",200 gallons,420 gallons,667 gallons,986 gallons
+576,D,"Pollution regulations require that each scupper in an
+enclosed deck area have a __________.",wooden plug,soft rubber plug,two-piece soft patch,"mechanical means of
+closing"
+581,B,"Freeboard is measured from the upper edge of the
+__________.",bulwark,deck line,gunwale bar,sheer strake
+596,C,How long shall the operator of a vessel employed in the transferring of oil to other vessels keep the Declaration of Inspection of those transfers?,1 week from date of signature,2 weeks from date of signature,1 month from date of signature,6 months from date of signature
+602,C,The amount of freeboard which a ship possesses has a tremendous effect on its __________.,initial stability,free surface,stability at large angles of inclination,permeability
+611,D,"The amount of freeboard which a ship possesses has
+a tremendous effect on its __________.",initial stability,free surface,permeability,"stability at large angles
+of inclination"
+612,D,"The maximum mean draft to which a vessel may be
+safely loaded is called __________.",mean draft,calculated draft,deep draft,load line draft
+615,C,"Your vessel is damaged and listing to port.  There is a
+short rolling period around the angle of list.  The port
+side freeboard is reduced to 1 foot.  There is no trim
+and the weather is calm.  You should FIRST
+__________.","press up a slack
+double bottom tank on
+the port side","fill an empty centerline
+double bottom tank","pump out a slack
+marine portable tank
+located on the portside
+amidships","jettison the anchors
+and anchor cables"
+616,C,"The operator of each vessel subject to the pollution
+regulations is NOT required to keep written records of
+__________.","the name of each
+person designated as a
+person in charge","the date and results of
+the most recent
+equipment inspection","cargoes carried and
+dates delivered,
+including destinations","hose information not
+marked on the hose"
+629,D,"The most likely location for a liquid cargo fire to occur
+on a tanker would be __________.",in the midships house,"at the main deck
+manifold",at the vent header,in the pumproom
+631,D,Reserve buoyancy is __________.,also called GM,"the void portion of the
+ship below the
+waterline which is
+enclosed and
+watertight","affected by the number
+of transverse watertight
+bulkheads","the watertight portion of
+a vessel above the
+waterline"
+636,C,"The person in charge on the vessel and the person in
+charge at the facility must hold a meeting before
+starting the transfer of oil.  Who must decide to start
+the transfer?","The person in charge
+on the vessel","The person in charge
+at the facility",Both persons in charge,"The person in charge
+of either place that is
+doing the pumping"
+647,D,"A tug should not come alongside a tank vessel in way
+of its cargo tanks while it is loading  grade A, B, or C
+cargo without the permission of the __________.",the cognizant OCMI,"superintendent of the
+shoreside facility",local fire department,"person in charge of the
+transfer"
+653,C,How does foam extinguish an oil fire?,"By cooling the oil below
+the ignition
+temperature","By removing the fuel
+source from the fire","By excluding the
+oxygen from the fire","By increasing the
+weight of the oil"
+654,D,"A tank vessel transferring non-flammable hazardous
+cargo in bulk must display warning signs.  These signs
+must __________.","be visible from both
+sides and from forward
+and aft","indicate ""NO
+SMOKING""","be displayed only while
+transferring cargo and
+fast to a dock","use black lettering on a
+white background"
+668,A,"Who may serve as the ""person in charge"" of loading
+and discharge operations aboard a tankship?","A licensed officer who
+holds a tankerman-PIC
+endorsement","The pumpman who has
+a tankerman assistant
+endorsement",The Master,The bosun
+671,C,Which action will affect the trim of a vessel?,"Moving high weights
+lower","Adding weight at the
+tipping center","Moving a weight
+forward",All of the above
+681,C,"The ship's tanks most effective for trimming are the
+__________.",deeps,domestics,peaks,settlers
+689,D,Which may ignite fuel vapors?,Static electricity,"An open and running
+motor",Loose wiring,All of the above
+692,D,"Those ship's tanks that are particularly important for
+trimming the ship are the __________.",domestics,settlers,deeps,peaks
+696,C,"The Declaration of Inspection made before oil transfer
+operations must be signed by the __________.",Master of the vessel,Captain of the Port,person(s) in charge,All of the above
+702,D,Which statement about free surface is TRUE?,A partially filled space with 40% surface permeability will have greater free surface effect than one with 60% surface permeability.,Pocketing increases the loss of GM due to free surface effect.,Cargo with a specific gravity of 1.05 has less free surface effect than a cargo with a specific gravity of 0.98.,Pocketing occurs at small angles of inclination when a tank is 98% full.
+706,C,"Your vessel is at a dock taking bunkers.  If oil begins to flow out of a tank vent, what should you do FIRST?",Open the intake valve to an adjacent tank.,Set out drip pans and sawdust and begin to mop up the spill.,Signal the shore control point to shut down.,Close the valve on the tank vent line.
+726,A,"You notice oil on the water near your vessel while
+taking on fuel.  You should FIRST __________.",stop fueling,"notify the senior deck
+officer","notify the terminal
+superintendent","determine whether your
+vessel is the source"
+756,A,"While your vessel is taking on fuel you notice oil on the
+water around the vessel.  What should you do FIRST?",Stop the fueling.,Notify the Coast Guard.,"Notify the terminal
+superintendent.","Determine the source
+of the oil."
+767,B,"Hoses used for cargo transfer operations must be
+tested and inspected at specified intervals by
+__________.","a representative of the
+Captain of the Port","the operator of the
+vessel or facility","a representative of the
+National Cargo Bureau","a representative of the
+American Bureau of
+Shipping"
+776,D,"During the annual inspection by the owner, each nonmetallic oil transfer hose must not burst, bulge, leak, or abnormally distort under static liquid pressure of at least __________.",100 pounds per square inch,the relief valve setting pressure,the shoreside pump discharge pressure,11⁄2 times the maximum allowable working pressure
+786,A,"33 CFR 156 deals with matters concerning
+__________.","oil and hazardous
+material transfer
+operations","vessel construction and
+design","operation of nautical
+school ships","lifesaving and
+firefighting equipment"
+788,A,"To determine which grades of cargo a tank vessel is
+permitted to carry you should __________.","refer to the vessel's
+Certificate of Inspection","examine the cargo
+tanks and fittings","ask the terminal
+supervisor or his
+representative",check the loading order
+794,B,"Which of the following represents the maximum percent of oxygen, by volume, required to be achieved by a ship's inert gas system, prior to the commencement of crude oil tank washing?",6%,8%,10%,12%
+796,D,The authority to grant an alternate procedure for oil transfer operations rests with the __________.,nearest Coast Guard office,"Officer-in-Charge, Marine Inspection",Area Commander,Captain of the Port
+816,D,"Applications for waivers of any requirements of the
+regulations for oil transfer operations must be
+submitted __________.","the day before the
+operations","5 days before the
+operations","10 days before the
+operations","30 days before the
+operations"
+817,B,"You are crude oil washing on a tanker with an inert gas
+system.  What percentage of oxygen must the inert gas
+system produce and deliver to the tanks?",0%,5%,8%,11%
+841,A,"If a vessel is sagging, what kind of stress is placed on
+the sheer strake?",Compression,Tension,Thrust,Racking
+846,D,"Each pressure gauge used in an oil transfer operation
+must be accurate to within __________.",1 percent,3 percent,5 percent,10 percent
+851,B,"When a vessel is stationary and in a hogging condition,
+the main deck is under __________.",compression stress,tension stress,shear stress,racking stress
+856,D,"The term, ""cargo tank length"", as used in part 157 of the Pollution Regulations, means the __________.","length of any individual cargo space, from bulkhead to bulkhead",greatest distance between two opposite diagonal measurement cargo tank bulkheads of a cargo tank,"The vessel has
+asymmetrical weight
+distribution.",length from the forward bulkhead of the forwardmost cargo tanks to the after bulkhead of the aftermost cargo tanks
+889,B,An oil fire is classified as class __________.,A,B,C,D
+911,C,Which part of the inert gas system is designed to relieve sudden large overpressures that exceed the capacity of the mechanical P/V valves?,Pressure control valve,Deck water seal,Liquid filled P/V breaker,Isolation valve
+961,D,"Your vessel has just finished bunkering and has a
+small list due to improper distribution of the fuel oil.
+This list will cause __________.","a decrease in reserve
+buoyancy","a decrease in the
+maximum draft","the vessel to flop to
+port and starboard",None of the above
+987,B,"According to Coast Guard Regulations (CFR 33), the
+shipboard Oil Pollution Emergency Plan must include
+__________.","all information
+ordinarily provided in
+the Oil Record Book","an explanation and
+purpose of the plan","a one-line schematic of
+the plan to be
+implemented","the operating
+instructions for any and
+all oily-water
+separators installed
+aboard the vessel"
+1001,D,"A vessel continually lists to one side and has a normal
+rolling period.  Which statement is TRUE?","The vessel has
+negative GM.","The center of gravity is
+on the centerline.","The list can be
+corrected by reducing
+KM.","The vessel has
+asymmetrical weight
+distribution."
+1032,B,"What is the major function of the deck water seal in an
+inert gas system?","Relieves excessive
+pressures from the
+system.","Isolates hazardous
+areas from
+nonhazardous areas.","Prevents the flow of
+inert gas into closed or
+isolated tanks.","Removes any leftover
+water or soot after the
+gas has been
+scrubbed."
+1052,B,"The fresh air intake of the inert gas system _____,",prevents the flue gas from falling below an oxygen content of 3%,allows the inert gas piping to be used for gas freeing the  tanks,opens when there is excessive vacuum on the deck water seal,enables outside air to mix with and to cool the hot flue gasses
+1068,B,A large oil fire on the deck of a ship can be fought most effectively with __________.,dry chemical,foam,Water (cartridge- high-velocity fog operated),"a decrease in the
+maximum draft"
+1069,B,"The ""flammable limits"" of an atmosphere are the __________.",two temperatures between which an atmosphere will self ignite,upper and lower percentage of vapor concentrations in an atmosphere which will burn if an ignition source is present,upper and lower pressures between which an atmosphere will  not burn,two temperatures between which an atmosphere will burn if an ignition source is present
+1079,B,The explosive range of Bunker C mixed with air is __________.,0% to  1% by volume,1% to  5% by volume,5% to 10% by volume,10% to 20% by volume
+1080,A,Which alarm is NOT found on an inert gas system?,Low oxygen alarm,Low pressure alarm,Scrubber high water level alarm,Deck seal low water alarm
+1083,B,"Which statement is TRUE concerning combustible gas
+indicators?","One sample of air is
+adequate to test a tank.","They do not work
+properly where there is
+a lack of oxygen.","They will detect a lack
+of oxygen.","They are calibrated to
+read the percentage
+chance of explosion."
+1089,A,"The flash point of a liquid means the temperature
+__________.","at which a liquid will
+give off flammable
+vapors","at which a liquid will
+burn steadily","at which a liquid will
+explode","that a liquid must reach
+before it will flow
+readily"
+1093,A,Which statement is TRUE concerning a combustible gas indicator?,Several seconds will elapse between the taking of a sample  and The instrument will the reading appearing operate in any on the dial. atmosphere.,two temperatures between which an atmosphere will self ignite,Toxicity of the atmosphere is measured by the instrument. All of the above,"is not affected by
+temperature"
+1099,A,"Which statement is TRUE concerning the ""flash point""
+of a substance?","It is lower than the
+ignition temperature.","It is the temperature at
+which a substance will
+spontaneously ignite.","It is the temperature at
+which a substance,
+when ignited, will
+continue to burn.","It is the temperature at
+which the released
+vapors will fall within
+the explosive range."
+1103,D,"While using a combustible gas indicator, if the
+hydrocarbon content of the atmosphere exceeds the
+U.E.L., the needle of the indicator will __________.","remain at zero without
+moving","move to the maximum
+reading and stay there","move halfway up the
+scale","move to the maximum
+reading and
+immediately return to
+zero"
+1109,A,The vapor pressure of a substance __________.,"increases with the
+temperature","decreases as
+temperature increases","is not affected by
+temperature","may increase or
+decrease as the
+temperature rises"
+1114,D,"A combustible gas indicator meter is calibrated to read
+the percentage of __________.",vapor to oxygen,"the flammable limit
+concentration","the autoignition
+concentration","the lower explosive
+limit concentration"
+1123,A,"A combustible gas indicator will operate correctly
+ONLY when the __________.","hydrocarbon content of
+the atmosphere is less
+than the U.E.L.","atmosphere is deficient
+in oxygen","compartment to be
+tested is free of CO2",All of the above
