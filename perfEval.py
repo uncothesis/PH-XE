@@ -12,7 +12,8 @@ class Evaluate:
 
     def load_models(self, yaml_path="models.yaml") -> list[dict]:
         with open(yaml_path, "r") as f:
-            return yaml.safe_load(f)
+            data = yaml.safe_load(f)
+            return data["models"]
 
     def analyse(self, score: int,desired_type: str="human"):
         filtered_elo = []

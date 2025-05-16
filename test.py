@@ -2,7 +2,7 @@ import os
 import json
 import yaml
 import pandas as pd
-
+from perfEval import Evaluate
 class ratings:
     def __init__(self, initial_rating: int, models: list, save_file: str = "llm_comparison.json"):
         self.file_name = save_file
@@ -80,5 +80,8 @@ def computeElo(first_model_name, second_model_name, select_model, k=30):
 
 computeElo(first_model_name, second_model_name, select_model)
 
+evaluator = Evaluate()
 
-print (models) 
+#print (models)
+
+print (evaluator.analyse(600, "llm"))

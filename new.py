@@ -1,9 +1,12 @@
 import os
 import yaml
 import json
+import time
 import pandas as pd
 from dotenv import load_dotenv
 from together import Together
+from tqdm import tqdm
+from perfEval import Evaluate
 
 # Load API key from .env
 load_dotenv()
@@ -73,12 +76,6 @@ def preference(response_list):
 
     return float(answer)
 
-llm_comparison = ratings(1000, models)
-
-response_list = getAnswers(sample)
-
-select_model = preference(response_list)
-
 def computeElo(first_model_name, second_model_name, select_model, k=32):
     expected_first = 1/(1 + 10** ((llm_comparison.get_rating(first_model_name)-llm_comparison.get_rating(second_model_name))/400))
     expected_second = 1 - expected_first
@@ -89,4 +86,49 @@ def computeElo(first_model_name, second_model_name, select_model, k=32):
     llm_comparison.set_rating(first_model_name, new_rating_first)
     llm_comparison.set_rating(second_model_name, new_rating_second)
 
+def basicEval(model_name):
+    df = pd.read_csv("questions.csv")
+    sample = df.sample(5).reset_index(drop=True)
+
+    results = []
+    for _, row in tqdm(sample.iterrows(), total=len(sample), desc="Evaluating"):
+        question = row['question']
+        options = f"A) {row['A']}\nB) {row['B']}\nC) {row['C']}\nD) {row['D']}"
+        correct = row['correct_answer']
+
+        prompt = f"Question: {question}\n\n{options}\n\nWhich option (A/B/C/D) is correct?"
+        response = call_together_api(prompt, model_name)
+        match = correct.lower() in response.lower()
+
+        results.append({
+            "question": question,
+            "correct": correct,
+            "response": response,
+            "is_correct": match
+        })
+
+        time.sleep(1)
+
+    # Summary
+    num_correct = sum(r['is_correct'] for r in results)
+    print(f"\nModel Accuracy: {num_correct} / {len(results)} correct")
+
+    # Show only incorrects
+    incorrect = [r for r in results if not r['is_correct']]
+    if incorrect:
+        print("\nIncorrect Responses:")
+        for r in incorrect:
+            print(f"\nQ: {r['question']}\nExpected: {r['correct']}\nModel said: {r['response']}")
+
+
+llm_comparison = ratings(1000, models)
+
+response_list = getAnswers(sample)
+
+select_model = preference(response_list)
+
 computeElo(first_model_name, second_model_name, select_model)
+
+evaluator = Evaluate()
+
+print (evaluator.analyse(600, "llm"))
