@@ -56,7 +56,7 @@ def getAnswers(sample):
 
 
 def preference(response_list):
-    print(f"**{first_model_name}**\n{response_list[0]}\n\n**{second_model_name}**\n{response_list[1]}\n\n")
+    print(f"\n\n**{first_model_name}**\n{response_list[0]}\n\n**{second_model_name}**\n{response_list[1]}\n\n")
 
     answer = input(f"if you like {first_model_name} answer enter 1\nif you like {second_model_name} answer enter 0\n enter 0.5 otherwise")
 
