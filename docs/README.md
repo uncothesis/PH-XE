@@ -7,7 +7,7 @@ PH-50E (read PH-50 enhanced) evaluates LLMs and humans through dual modes: a bas
 ## Features
 
 (in addition to the ones mentioned in PH-50)
-- **Dynamic ELO Rankings:** Models/humans gain skill-based scores updated through competitive comparisons (works similarly to chess)
+- **Dynamic ELO Rankings:** Models/humans gain skill-based scores updated through competitive comparisons (works similar to chess)
 - **Percentile Positioning:** Shows performance relative to specific groups (LLMs/humans) and all participants
 - **Rating Storage:** Maintains ratings in `llm_comparison.json` between sessions, auto-initializes new entrants
 - **Reasoning-Focused Evaluation:** Humans judge response quality (not just accuracy) via side-by-side comparisons
